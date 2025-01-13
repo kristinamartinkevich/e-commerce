@@ -1,1 +1,1 @@
-![Cart](https://github.com/kristinamartinkevich/e-commerce/blob/main/src/assets/preview.png?raw=true)
+![Preview](https://raw.githubusercontent.com/kristinamartinkevich/e-commerce/refs/heads/master/src/assets/preview.png)
